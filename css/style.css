@@ -40,21 +40,16 @@ h2 {
 }
 h3 {
 	line-height:10px;
+	margin-left:145px;
 	font-size:60px;
 	color:#D1D1D1;
+	text-align:left;
 	font-family: 'Poiret One', cursive;
 }
 
 #content, h1, a {
 	margin-left:150px;
 }
-/*.heart1, .heart2, .heart3  {
-	margin-left:60px;
-	background-color: #E61610;
-	height:35px;
-	width:20px;
-	display:inline-block;
-	border-radius: 80%;*/
 
 a {
 	color:grey;
@@ -112,6 +107,9 @@ ul {
 	margin-top:20px;
 	margin-left:-190px;
 	font-weight:500px;
+}
+p {
+	width:50%;
 }
 /*.project img {
 	width: 230px;
