@@ -40,13 +40,14 @@ h2 {
 }
 h3 {
 	line-height:10px;
-	margin-left:145px;
 	font-size:60px;
 	color:#D1D1D1;
-	text-align:left;
 	font-family: 'Poiret One', cursive;
 }
-
+#pro {
+	margin-left:145px;
+	text-align:left;
+}
 #content, h1, a {
 	margin-left:150px;
 }
@@ -72,6 +73,8 @@ a:hover {
 	margin: 0px auto;
 	margin-left: -10px;
 }*/
+
+
 #slider { 
 	width:720px;
 	height: 400px;
@@ -98,8 +101,8 @@ a:hover {
 }
 .slide img{
 	height: 110%;
-  	width: 100%;
-  	margin: 0 auto;
+  	width: 50%;
+  	margin-left:140px;
 }
 ul {
 	font-size:20px;
